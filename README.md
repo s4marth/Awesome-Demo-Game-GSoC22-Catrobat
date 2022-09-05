@@ -4,7 +4,7 @@
 
 An Awesome Demo Game which is playable on both phones as well as on smart TV when cast made in Catrobat Visual Programming Language. The game is ispired with many Zombie based ames like Zombieville. The main character of the game is 'Mark'  who is the hero and has ability to save the whole city with this destruction. At each level, Mark will fight with Zombies and creatures sent by the main villain 'Goliath'. and In the last level Mark will fight with our main Villain 'Goliath' and defeat him and save the city with this disaster by ejecting the antidode. The player follows mark in his journey. The game story is easily depicted through cinematic cutscenes for better insight. The game is very easy to play and get into, with on-screen controls, and a fairly simple UI. The game is playable on both phones and on a smart TV without looking at the phone's screen while using the phone as a gamepad. This game shows how the ‘Pocket Code’ app can be used to develop high-quality video games if used efficiently and effectively.
 
-Game Youtube video- 
+Game Youtube video- https://www.youtube.com/watch?v=TLYp3zbUa8E
 
 Thanks to Mentors: <br>
 Vaibhav anand and Yash punia for their support throughout the Gsoc period.
