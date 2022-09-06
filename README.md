@@ -26,8 +26,8 @@ While going through the Idealist of catrobat I found Awesome demo game project w
 * The next problem I faced was the lagging, when I was making the game I faced a lot lag in the game like it can't playable then I reduced it upto many extent by removing some loops and reducing asstes and improving logics etc. 
 * Another problem is the Art style, I am working on vector art style but somehow my assets are not matching with the levels and background that I was using. so I tried making some of my own.
 * The next major problem I faced was to implement proper player collisions behaviour. The physics I used for the game initially had some small glitches, but I could not overlook them. So I worked on improving and polishing the physics of the game. It took me a while but I figured it out after discussions with the mentor.
-* The aiming logic problem, at first I was building the game without the aimer but then I changed the controls system fully and introduce a aimer which will help help mark to aim target and then shoot. the aimer is looking very good in the game but it also genetrates issues like lagging because it require a good logic to boild it, so at the end I again removed the aimer and get back to the normal controls
-* Uploading my project file to the Pocket Community. After completing my project in the third version, I thought my game size is big so it will generate problems and it does. After discussing it with the mentors, I got a hint that my project file had some unused assets and infinite loops, so figured it out and now it is uploaded successfully. Right now the game is playable through the project file available through the latest releases.
+* The aiming logic problem, at first I was building the game without the aimer but then I changed the controls system fully and introduce a aimer which will help mark to aim target and then shoot. the aimer is looking very good in the game but it also genetrates issues like lagging because it require a good logic to build it, so at the end I again removed the aimer and get back to the normal controls
+* Uploading my project file to the Pocket Community. After completing my project in the third version, I thought my game size is big so it will generate problems and it does. After discussing it with the mentors, I got to know that my project file had some unused assets and infinite loops, so figured it out and now it is uploaded successfully. Right now the game is playable through the project file available through the latest releases.
 
 
 
@@ -37,6 +37,8 @@ Version-3 : https://share.catrob.at/app/project/b258fd76-6cb5-44b7-80cf-f5e587d5
 Version-2 : https://share.catrob.at/app/project/ff8dd62e-7e9c-45a5-a724-d84713209a8f <br>
 Version-1 : https://share.catrob.at/app/project/a193483a-8c9f-4162-acaf-a6bf4212a5c1 <br>
 Version-0 : https://share.catrob.at/app/project/27662024-5081-4478-845c-9b0b9b2215af <br>
-All the project files, along with the amount of content they hold, are in the “Project Summaries” document in the directory. All the assets and music files are present in above github repository. The(.catrobat) file can be imported into your Pocket Code app.
+All the project files, along with the amount of content they hold, are in the “Assets” document in the directory. All the assets and music files are present in above github repository. The(.catrobat) file can be imported into your Pocket Code app. <br>
+All the ".catrobat" files of each version of game are also present on Google drive : https://drive.google.com/drive/folders/1ikfwE-4ENUtAiYUnofv5NVY7JvWIDVog?usp=sharing
+<br>
 Download the desired project file and remix it as you want!<br>
 Game link(https://share.catrob.at/app/project/b258fd76-6cb5-44b7-80cf-f5e587d572d9)
